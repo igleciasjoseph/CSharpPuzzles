@@ -1,0 +1,11 @@
+/Users/kratos/Desktop/C#/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.deps.json
+/Users/kratos/Desktop/C#/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.runtimeconfig.json
+/Users/kratos/Desktop/C#/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.runtimeconfig.dev.json
+/Users/kratos/Desktop/C#/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.dll
+/Users/kratos/Desktop/C#/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.pdb
+/Users/kratos/Desktop/C#/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.csprojAssemblyReference.cache
+/Users/kratos/Desktop/C#/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.csproj.CoreCompileInputs.cache
+/Users/kratos/Desktop/C#/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.AssemblyInfoInputs.cache
+/Users/kratos/Desktop/C#/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.AssemblyInfo.cs
+/Users/kratos/Desktop/C#/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.dll
+/Users/kratos/Desktop/C#/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.pdb
